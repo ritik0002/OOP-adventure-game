@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=bossZombie
+comment1.params=
+comment1.target=bossZombie()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ bossZombie\r\n
+comment2.params=p\ area
+comment2.target=void\ attack(Player,\ java.awt.TextArea)
+comment3.params=
+comment3.target=void\ chargedAttack()
+comment4.params=
+comment4.target=void\ SetChargedAttack()
+comment5.params=
+comment5.target=boolean\ getChargedAttack()
+comment6.params=p\ area
+comment6.target=void\ Bigattack(Player,\ java.awt.TextArea)
+numComments=7

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=characters
+comment1.params=name\ health\ speed\ strength
+comment1.target=characters(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ characters\r\n
+comment10.params=area
+comment10.target=void\ getStats(java.awt.TextArea)
+comment11.params=
+comment11.target=boolean\ dead()
+comment2.params=
+comment2.target=int\ getHealth()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=speed
+comment4.target=void\ setSpeed(int)
+comment5.params=
+comment5.target=int\ getStrength()
+comment6.params=value
+comment6.target=void\ setStrength(int)
+comment7.params=h\ area
+comment7.target=void\ setHealth(int,\ java.awt.TextArea)
+comment8.params=
+comment8.target=java.lang.String\ getName()
+comment9.params=n
+comment9.target=void\ setName(java.lang.String)
+numComments=12

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Waves
+comment1.params=z\ p
+comment1.target=Waves(java.util.ArrayList,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Waves\r\n
+comment2.params=index
+comment2.target=Zombie\ getZombie(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int\ getZombieLength()
+comment4.params=index
+comment4.target=Powerup\ getPowerup(int)
+comment5.params=
+comment5.target=int\ getPowerupLength()
+comment6.params=index\ area
+comment6.target=void\ AddZombie(int,\ java.awt.TextArea)
+numComments=7

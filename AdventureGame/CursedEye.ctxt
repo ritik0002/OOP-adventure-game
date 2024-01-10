@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CursedEye
+comment1.params=
+comment1.target=CursedEye()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CursedEye\r\n
+comment2.params=
+comment2.target=int\ getStrength()
+comment3.params=value
+comment3.target=void\ setStrength(int)
+comment4.params=p\ area
+comment4.target=void\ effect(Player,\ java.awt.TextArea)
+comment5.params=p\ area
+comment5.target=void\ Cursed(Player,\ java.awt.TextArea)
+comment6.params=
+comment6.target=boolean\ getCurse()
+numComments=7

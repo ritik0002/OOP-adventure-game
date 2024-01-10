@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BruteZombie
+comment1.params=
+comment1.target=BruteZombie()
+comment2.params=p\ area
+comment2.target=void\ attack(Player,\ java.awt.TextArea)
+comment3.params=p\ area
+comment3.target=void\ weapon(Player,\ java.awt.TextArea)
+comment4.params=
+comment4.target=int\ getWeaponStrength()
+comment5.params=area
+comment5.target=void\ getStats(java.awt.TextArea)
+numComments=6

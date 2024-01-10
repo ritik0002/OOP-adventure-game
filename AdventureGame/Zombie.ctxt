@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=name\ health\ Speed\ Strength
+comment1.target=Zombie(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Zombie\r\n
+comment2.params=
+comment2.target=boolean\ setRange()
+comment3.params=
+comment3.target=boolean\ getRanged()
+comment4.params=p\ area
+comment4.target=void\ attack(Player,\ java.awt.TextArea)
+comment5.params=area
+comment5.target=void\ getStats(java.awt.TextArea)
+numComments=6

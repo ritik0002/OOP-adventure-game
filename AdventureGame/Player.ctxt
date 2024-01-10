@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ Strength\ speed
+comment1.target=Player(java.lang.String,\ int,\ int)
+comment10.params=area
+comment10.target=boolean\ dead(java.awt.TextArea)
+comment2.params=Enemy\ area
+comment2.target=void\ Fight(Zombie,\ java.awt.TextArea)
+comment3.params=
+comment3.target=int\ getUltimate()
+comment4.params=area
+comment4.target=void\ Rest(java.awt.TextArea)
+comment5.params=area
+comment5.target=void\ useUltimate(java.awt.TextArea)
+comment6.params=value\ area
+comment6.target=void\ setUltimate(int,\ java.awt.TextArea)
+comment7.params=
+comment7.target=void\ resetUltimate()
+comment8.params=area
+comment8.target=void\ decreaseSpeed(java.awt.TextArea)
+comment9.params=area
+comment9.target=void\ getStats(java.awt.TextArea)
+numComments=11
