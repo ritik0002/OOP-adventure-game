@@ -1,9 +1,25 @@
-Student name:Ritik Desai
-Student number:200205418
+LEVEL ONE
 
-Please complete this README file for your level 3 mini-project submission.
+My code demonstrates inheritance in the following way...
 
-If your level 1/2 submission did not get full marks you MUST complete the second part of this template describing how and where your have improved your code so that it now meets the level 1 and 2 requirements. If your code still does not meet level 1 and 2 requirements then you will get 0 for level 3.
+I have a superclass called [characters]
+
+This superclass is extended into at least two subclasses called [Player,Zombie,(and has 2 grandchildren BruteZombie,bossZombie)]
+
+For each of the named subclasses complete the following...
+
+Subclass 1.
+
+Subclass [Player] extends the superclass by adding at least one property and its getters and setters. The name(s) of the added properties are [ultimateCount]
+
+These/this new properties/property are used by the subclass in the following way: [used in class Player: at line numbers 60-62, 75-97 -Ultimate count is used as a interaction in which the user can use inorder to gain extra speed,strength and health and has its own setter/getters]
+
+Subclass [Player] extends the superclass by overriding the following methods (there must be at least one): [dead(), getStats()]
+
+These overridden methods are used in the working code in the following places: [used in the fight method (line 22:at lines 39,45) in the Player class and the fight method is used at line 71]
+
+
+Subclass 2.
 
 LEVEL THREE
 *To note I have already Passed level 1 & 2 thus removing them from this readme file*
