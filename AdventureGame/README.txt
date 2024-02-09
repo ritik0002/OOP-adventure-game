@@ -1,12 +1,4 @@
-Student name:Ritik Desai
-Student number:200205418
 
-Please complete this README file for your level 3 mini-project submission.
-
-If your level 1/2 submission did not get full marks you MUST complete the second part of this template describing how and where your have improved your code so that it now meets the level 1 and 2 requirements. If your code still does not meet level 1 and 2 requirements then you will get 0 for level 3.
-
-LEVEL THREE
-*To note I have already Passed level 1 & 2 thus removing them from this readme file*
 
 GUI
 [(All the code takes place in the AdventureGame class) At the start of my program The user presses the start button and gets to the main game then must enter there name(inside a textField and has to press a button then stores the name (lines=90-109 (shows the display and actions taken at lines=201-211) Then the user gets to battle zombies and gets 5 options to fight,rest,use ultimate,display stats, or quit and set a checkpoint- when the user chooses to fight it displays the outcome to the textarea(and other stuff like how much damage taken etc),stats show current health,strength speed,ultimate status, and ultimate is used to use ultimate to gain health,strength,speed and resting gains some health and attack and which all is displayed to the screen. One last thing when the user gains a certain powerup it has a activate powerup button which is a 1 time use and gains health from it and can use it when the enemy attacks (line numbers:223-226,228-311 for the response)]
